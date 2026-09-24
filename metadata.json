@@ -1,0 +1,6 @@
+{
+  "name": "GPET 2026 — Gradorra Launch Gate",
+  "description": "Official launch countdown and verification portal for the GPET 2026 Gradorra Scholarship Examination platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
